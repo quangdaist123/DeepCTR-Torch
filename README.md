@@ -6,7 +6,6 @@
 [![GitHub Issues](https://img.shields.io/github/issues/shenweichen/deepctr-torch.svg
 )](https://github.com/shenweichen/deepctr-torch/issues)
 
-
 [![Documentation Status](https://readthedocs.org/projects/deepctr-torch/badge/?version=latest)](https://deepctr-torch.readthedocs.io/)
 ![CI status](https://github.com/shenweichen/deepctr-torch/workflows/CI/badge.svg)
 [![codecov](https://codecov.io/gh/shenweichen/DeepCTR-Torch/branch/master/graph/badge.svg?token=m6v89eYOjp)](https://codecov.io/gh/shenweichen/DeepCTR-Torch)
@@ -15,7 +14,8 @@
 
 PyTorch version of [DeepCTR](https://github.com/shenweichen/DeepCTR).
 
-DeepCTR is a **Easy-to-use**,**Modular** and **Extendible** package of deep-learning based CTR models along with lots of core components layers which can be used to build your own custom model easily.You can use any complex model with `model.fit()`and `model.predict()` .Install through `pip install -U deepctr-torch`.
+DeepCTR is a **Easy-to-use**,**Modular** and **Extendible** package of deep-learning based CTR models along with lots of core components layers which can be used to build your own custom model
+easily.You can use any complex model with `model.fit()`and `model.predict()` .Install through `pip install -U deepctr-torch`.
 
 Let's [**Get Started!**](https://deepctr-torch.readthedocs.io/en/latest/Quick-Start.html)([Chinese Introduction](https://zhuanlan.zhihu.com/p/53231955))
 
@@ -47,86 +47,17 @@ Let's [**Get Started!**](https://deepctr-torch.readthedocs.io/en/latest/Quick-St
 |                  MMOE                  | [KDD 2018][Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts](https://dl.acm.org/doi/abs/10.1145/3219819.3220007)                   |
 |                  PLE                   | [RecSys 2020][Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/10.1145/3383313.3412236)                   |
 
-
-
 ## DisscussionGroup & Related Projects
 
 - [Github Discussions](https://github.com/shenweichen/DeepCTR/discussions)
 - Wechat Discussions
 
-|公众号：浅梦学习笔记|微信：deepctrbot|学习小组 [加入](https://t.zsxq.com/026UJEuzv) [主题集合](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5MzY4NzE3MA==&action=getalbum&album_id=1361647041096843265&scene=126#wechat_redirect)|
-|:--:|:--:|:--:|
-| [![公众号](./docs/pics/code.png)](https://github.com/shenweichen/AlgoNotes)| [![微信](./docs/pics/deepctrbot.png)](https://github.com/shenweichen/AlgoNotes)|[![学习小组](./docs/pics/planet_github.png)](https://t.zsxq.com/026UJEuzv)|
 
 - Related Projects
 
-  - [AlgoNotes](https://github.com/shenweichen/AlgoNotes)
-  - [DeepCTR](https://github.com/shenweichen/DeepCTR)
-  - [DeepMatch](https://github.com/shenweichen/DeepMatch)
-  - [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)
+    - [AlgoNotes](https://github.com/shenweichen/AlgoNotes)
+    - [DeepCTR](https://github.com/shenweichen/DeepCTR)
+    - [DeepMatch](https://github.com/shenweichen/DeepMatch)
+    - [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding)
 
 ## Main Contributors([welcome to join us!](./CONTRIBUTING.md))
-
-<table border="0">
-  <tbody>
-    <tr align="center" >
-      <td>
-        ​ <a href="https://github.com/shenweichen"><img width="70" height="70" src="https://github.com/shenweichen.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/shenweichen">Shen Weichen</a> ​
-        <p> Alibaba Group </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/zanshuxun"><img width="70" height="70" src="https://github.com/zanshuxun.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/zanshuxun">Zan Shuxun</a>
-        <p> Alibaba Group </p>​
-      </td>
-      <td>
-         <a href="https://github.com/weberrr"><img width="70" height="70" src="https://github.com/weberrr.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/weberrr">Wang Ze</a> ​
-        <p> Meituan </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/wutongzhang"><img width="70" height="70" src="https://github.com/wutongzhang.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/wutongzhang">Zhang Wutong</a>
-         <p> Tencent </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/ZhangYuef"><img width="70" height="70" src="https://github.com/ZhangYuef.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/ZhangYuef">Zhang Yuefeng</a>
-        <p> Peking University  </p>​
-      </td>
-    </tr>
-    <tr align="center">
-      <td>
-        ​ <a href="https://github.com/JyiHUO"><img width="70" height="70" src="https://github.com/JyiHUO.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/JyiHUO">Huo Junyi</a>
-        <p>
-        University of Southampton <br> <br>  </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/Zengai"><img width="70" height="70" src="https://github.com/Zengai.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/Zengai">Zeng Kai</a> ​
-        <p>
-        SenseTime <br> <br>  </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/chenkkkk"><img width="70" height="70" src="https://github.com/chenkkkk.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/chenkkkk">Chen K</a> ​
-        <p>
-        NetEase <br>  <br>  </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/WeiyuCheng"><img width="70" height="70" src="https://github.com/WeiyuCheng.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/WeiyuCheng">Cheng Weiyu</a> ​
-        <p>
-        Shanghai Jiao Tong University</p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/tangaqi"><img width="70" height="70" src="https://github.com/tangaqi.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/tangaqi">Tang</a>
-        <p>
-        Tongji University <br> <br>  </p>​
-      </td>
-    </tr>
-  </tbody>
-</table>
